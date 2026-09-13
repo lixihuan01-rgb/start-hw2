@@ -28,15 +28,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a81bcb28-9537-48b7-afbf-83a771b9da6d" name="Changes" comment="Starting with solution">
+    <list default="true" id="a81bcb28-9537-48b7-afbf-83a771b9da6d" name="Changes" comment="Add executable, UNIX conversions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ci.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diagnostics-json.py" beforeDir="false" afterPath="$PROJECT_DIR$/diagnostics-json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expected/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/expected/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run-clang-tidy.py" beforeDir="false" afterPath="$PROJECT_DIR$/run-clang-tidy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tidy-json.py" beforeDir="false" afterPath="$PROJECT_DIR$/tidy-json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +154,8 @@
     <MESSAGE value="Fixing DOS new lines" />
     <MESSAGE value="Checking tidy feedback" />
     <MESSAGE value="Starting with solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting with solution" />
+    <MESSAGE value="Add executable, UNIX conversions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add executable, UNIX conversions" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

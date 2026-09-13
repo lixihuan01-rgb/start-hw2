@@ -5,13 +5,12 @@ cmake_minimum_required(VERSION 3.12)
 
 # If you create new headers/cpp files, add them to these list!
 set(HEADER_FILES
-    Catch.hpp
-    catch_reporter_github.hpp
+        Catch.hpp
+        catch_reporter_github.hpp
 )
 
 set(SOURCE_FILES
-    catch.cpp
-    gradedTests.cpp
+        catch.cpp
 )
 
 # Don't change this
