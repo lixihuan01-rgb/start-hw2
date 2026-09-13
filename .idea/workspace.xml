@@ -28,9 +28,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a81bcb28-9537-48b7-afbf-83a771b9da6d" name="Changes" comment="Checking tidy feedback">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="a81bcb28-9537-48b7-afbf-83a771b9da6d" name="Changes" comment="Starting with solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ci.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ci.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/diagnostics-json.py" beforeDir="false" afterPath="$PROJECT_DIR$/diagnostics-json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/expected/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/expected/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run-clang-tidy.py" beforeDir="false" afterPath="$PROJECT_DIR$/run-clang-tidy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tidy-json.py" beforeDir="false" afterPath="$PROJECT_DIR$/tidy-json.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +158,8 @@
     <MESSAGE value="Adding execute permissions" />
     <MESSAGE value="Fixing DOS new lines" />
     <MESSAGE value="Checking tidy feedback" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checking tidy feedback" />
+    <MESSAGE value="Starting with solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting with solution" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
