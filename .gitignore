@@ -1,3 +1,5 @@
+# Copyright (c) 2023 Nathan Greenfield. All rights reserved
+
 # Prerequisites
 *.d
 
@@ -11,22 +13,10 @@
 *.gch
 *.pch
 
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
 # Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
-*.so.*
-
-
-# Fortran module files
-*.mod
-*.smod
 
 # Compiled Static libraries
 *.lai
@@ -39,31 +29,43 @@
 *.out
 *.app
 
-# Build directories
-build/
-Build/
-build-*/
+# Mac files
+*.xcodeproj/
+.DS_Store
+*~
+diff.txt
 
-# CMake generated files
+# PC files
+*.sln
+*.vcxproj
+*.db
+*.suo
+*.sdf
+Release/
+Debug/
+.vs/*
+!.vs/launch.vs.json
+
+# CLion files
+cmake-build-debug-visual-studio
+.idea/*.iml
+
+# CMake files
+build/
+CMakeScripts/
+cmake_install.cmake
 CMakeFiles/
 CMakeCache.txt
-cmake_install.cmake
-Makefile
-install_manifest.txt
-compile_commands.json
 
-# Temporary files
-*.tmp
-*.log
-*.bak
-*.swp
+# Output files
+output/*
+out
+!output
+!output/readme.txt
 
-# vcpkg
-vcpkg_installed/
+# SMC CS C++ specific files
+GradeReport.md
+*.json
 
-# debug information files
-*.dwo
 
-# test output & cache
-Testing/
-.cache/
+
