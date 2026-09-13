@@ -2,8 +2,8 @@
 # Copyright (c) 2025 Nathan Greenfield. All rights reserved
 
 # Pull tests
-# wget "https://drive.google.com/uc?export=download&id=1ucEl5GT6f29D0pqVDpSOyqu8ltFMRHEl" -O hw1.tar.gz || { echo "::error::Unable to download graded tests. Try again."; exit 1; }
-# tar xzf hw1.tar.gz || { echo "::error::Error downloading graded tests. Try again."; exit 1; }
+wget "https://drive.google.com/uc?export=download&id=10PHAknbqUbQ3OYb3KCAWzUnnT_h-e89E" -O hw2.tar.gz || { echo "::error::Unable to download graded tests. Try again."; exit 1; }
+tar xzf hw2.tar.gz || { echo "::error::Error downloading graded tests. Try again."; exit 1; }
 
 echo "Compiling..."
 mkdir build
