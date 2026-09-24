@@ -37,6 +37,7 @@ int main() {
 
     loanAmount = (price - downPayment) * (1 + tax / 100);
 
+    
     cout << "Your overall down payment is $" << downPayment << endl;
     cout << "Your overall loan amount is $" << loanAmount << endl;
     cout << "*****************************" << endl;
