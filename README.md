@@ -2,8 +2,8 @@
 
 ### EDIT BELOW
 
-Name: Nathan Greenfield
+Name: Ryan Li
 
-Email: greenfield_nathan@smc.edu
+Email: li_xihuan01@student.smc.edu
 
 Platform: PC
